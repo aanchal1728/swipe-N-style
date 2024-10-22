@@ -55,8 +55,3 @@ Recommendations
 
 
 
-## Authors
-
-- [@Pornima04](https://github.com/Pornima04)
-- [@Isha3007](https://github.com/Isha3007)
-
